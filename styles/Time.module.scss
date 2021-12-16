@@ -1,0 +1,32 @@
+.time {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    transition-duration: 250ms;
+}
+
+.label {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Prompt', sans-serif;
+}
+
+.nxtimeinner{
+    display: flex;
+}
+
+.nxtimesegment{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.divider, .time{
+    font-size: 100px;
+}
+
+.divider {
+    padding: 0 2rem;
+}
